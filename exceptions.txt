@@ -2,6 +2,5 @@
 *.ova
 *Thumbs.db*
 *.directory
-*Windows*.iso
-*windows*.iso
+*.iso
 */.git/*
