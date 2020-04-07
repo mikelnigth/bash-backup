@@ -1,0 +1,7 @@
+/home/user/music/*
+*.ova
+*Thumbs.db*
+*.directory
+*Windows*.iso
+*windows*.iso
+*/.git/*
